@@ -2,7 +2,7 @@
 
 A **modern and responsive portfolio website** built with **HTML**, **CSS**, **JavaScript**, and **PHP (XAMPP)**. It showcases my skills, projects, services, and includes a contact form to store messages in a **MySQL database**.
 
-🔗 **Live Demo:** [Portfolio Website](https://bindhyadulal.github.io/Portfolio_Website/)  
+🔗 **Live Demo:** [Portfolio Website](https://manjilxtha.github.io/-Portfolio-Website/)  
 
 ---
 
